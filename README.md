@@ -26,7 +26,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ahju411&color=blueviolet)
 
 #### 📫 연락처
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:hshs321@financialiq.co.kr)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:gptjd54@gmail.com) gptjd54@gmail.com
 
 ---
 ⚠️ 회사 기밀 유지 정책으로 인해 일부 프로젝트 저장소는 비공개로 운영되고 있습니다.
