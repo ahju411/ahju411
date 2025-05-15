@@ -1,8 +1,8 @@
 ### 안녕하세요! 저는 이혜성입니다 👋
 
 #### 🏢 FinancialIQ 재직 중
-3년차 개발자로서 혁신적인 금융관련 사이트 개발에 열정을 가지고 있습니다  
-풀스택 개발을 전문으로 하며, 사용자 중심의 서비스를 만들기 위해 노력하고 있습니다
+3년차 개발자로서 금융관련 사이트 | 프로그램 개발에 열정을 가지고 있습니다  
+풀스택 개발을 지향하고 있습니다
 
 #### ✨ 주요 기술 스택
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
